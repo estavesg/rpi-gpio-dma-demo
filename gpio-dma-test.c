@@ -2,6 +2,7 @@
  * Copyright (c) 2015, Henner Zeller <h.zeller@acm.org>
  * This is provided as-is to the public domain.
  *
+ *
  * This is not meant to be useful code, just an attempt
  * to understand GPIO performance if sent with DMA (which is: too low).
  * It might serve as an educational example though.
